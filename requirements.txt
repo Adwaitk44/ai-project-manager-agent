@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+streamlit
+groq
+python-dotenv
+sqlalchemy
+pydantic
+pydantic-settings
+python-multipart
+mcp
+httpx
+requests
+pytest

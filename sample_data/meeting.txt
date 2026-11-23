@@ -1,0 +1,30 @@
+Meeting: Weekly Project Status Meeting
+Date: 23 November 2026
+
+Project Manager:
+Let's discuss the project progress.
+
+Rahul:
+The login API development is completed.
+I have raised a pull request.
+
+Priya:
+I am working on payment integration.
+I expect to complete it by Friday.
+
+Rahul:
+We are facing a payment gateway issue.
+The API response is inconsistent.
+
+Project Manager:
+Rahul, please investigate the payment gateway issue.
+
+Client:
+We also need a reporting dashboard.
+This was not part of the original agreed scope.
+
+Project Manager:
+Let's evaluate this requirement before committing to it.
+
+QA:
+I will test the login API after the PR is merged.
